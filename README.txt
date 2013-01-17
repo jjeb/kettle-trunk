@@ -63,7 +63,7 @@ What is the best way to merge?
      
      
        
-I got the source.  What is that "assembly" folder?
+I got the source. What is that "assembly" folder?
 
      The assembly folder serves two purposes:
      
